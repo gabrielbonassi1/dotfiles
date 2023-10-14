@@ -1,0 +1,60 @@
+2023/10/13-23:26:24.720 2449 Reusing MANIFEST /home/gabriel/.config/tabby/Local Storage/leveldb/MANIFEST-000001
+2023/10/13-23:26:24.731 2449 Recovering log #15
+2023/10/13-23:26:24.734 2449 Reusing old log /home/gabriel/.config/tabby/Local Storage/leveldb/000015.log 
+2023/10/13-23:28:27.714 244b Level-0 table #18: started
+2023/10/13-23:28:27.716 244b Level-0 table #18: 16206 bytes OK
+2023/10/13-23:28:27.717 244b Delete type=0 #15
+2023/10/13-23:28:27.718 244b Compacting 4@0 + 1@1 files
+2023/10/13-23:28:27.720 244b Generated table #19@0: 2 keys, 5522 bytes
+2023/10/13-23:28:27.720 244b Compacted 4@0 + 1@1 files => 5522 bytes
+2023/10/13-23:28:27.720 244b compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/10/13-23:28:27.721 244b Delete type=2 #18
+2023/10/13-23:28:27.721 244b Delete type=2 #12
+2023/10/13-23:28:27.721 244b Delete type=2 #9
+2023/10/13-23:28:27.721 244b Delete type=2 #7
+2023/10/13-23:28:27.721 244b Delete type=2 #14
+2023/10/13-23:35:06.027 244b Level-0 table #21: started
+2023/10/13-23:35:06.028 244b Level-0 table #21: 11857 bytes OK
+2023/10/13-23:35:06.029 244b Delete type=0 #17
+2023/10/13-23:36:06.031 244b Level-0 table #23: started
+2023/10/13-23:36:06.032 244b Level-0 table #23: 12885 bytes OK
+2023/10/13-23:36:06.034 244b Delete type=0 #20
+2023/10/13-23:40:06.029 244b Level-0 table #25: started
+2023/10/13-23:40:06.030 244b Level-0 table #25: 13110 bytes OK
+2023/10/13-23:40:06.031 244b Delete type=0 #22
+2023/10/13-23:44:06.035 244b Level-0 table #27: started
+2023/10/13-23:44:06.037 244b Level-0 table #27: 14186 bytes OK
+2023/10/13-23:44:06.038 244b Delete type=0 #24
+2023/10/13-23:44:06.038 244b Compacting 4@0 + 1@1 files
+2023/10/13-23:44:06.039 244b Generated table #28@0: 2 keys, 7543 bytes
+2023/10/13-23:44:06.039 244b Compacted 4@0 + 1@1 files => 7543 bytes
+2023/10/13-23:44:06.040 244b compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/10/13-23:44:06.040 244b Delete type=2 #23
+2023/10/13-23:44:06.040 244b Delete type=2 #19
+2023/10/13-23:44:06.040 244b Delete type=2 #27
+2023/10/13-23:44:06.040 244b Delete type=2 #25
+2023/10/13-23:44:06.040 244b Delete type=2 #21
+2023/10/13-23:50:06.031 244b Level-0 table #30: started
+2023/10/13-23:50:06.032 244b Level-0 table #30: 15069 bytes OK
+2023/10/13-23:50:06.033 244b Delete type=0 #26
+2023/10/13-23:51:06.030 244b Level-0 table #32: started
+2023/10/13-23:51:06.031 244b Level-0 table #32: 15275 bytes OK
+2023/10/13-23:51:06.032 244b Delete type=0 #29
+2023/10/13-23:52:06.035 244b Level-0 table #34: started
+2023/10/13-23:52:06.037 244b Level-0 table #34: 15656 bytes OK
+2023/10/13-23:52:06.037 244b Delete type=0 #31
+2023/10/13-23:56:36.034 244b Level-0 table #36: started
+2023/10/13-23:56:36.036 244b Level-0 table #36: 15797 bytes OK
+2023/10/13-23:56:36.037 244b Delete type=0 #33
+2023/10/13-23:56:36.037 244b Compacting 4@0 + 1@1 files
+2023/10/13-23:56:36.038 244b Generated table #37@0: 2 keys, 7957 bytes
+2023/10/13-23:56:36.038 244b Compacted 4@0 + 1@1 files => 7957 bytes
+2023/10/13-23:56:36.039 244b compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/10/13-23:56:36.039 244b Delete type=2 #28
+2023/10/13-23:56:36.039 244b Delete type=2 #34
+2023/10/13-23:56:36.039 244b Delete type=2 #36
+2023/10/13-23:56:36.039 244b Delete type=2 #30
+2023/10/13-23:56:36.039 244b Delete type=2 #32
+2023/10/13-23:57:23.847 244b Level-0 table #39: started
+2023/10/13-23:57:23.849 244b Level-0 table #39: 16046 bytes OK
+2023/10/13-23:57:23.850 244b Delete type=0 #35

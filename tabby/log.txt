@@ -1,0 +1,143 @@
+info: v
+debug: Setting language to
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":["configure"],"sandbox":false},"cwd":"/home/gabriel","secondInstance":false}
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+info: v
+debug: Setting language to
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":["configure"],"sandbox":false},"cwd":"/home/gabriel","secondInstance":false}
+info: Starting profile User default {"behaviorOnSessionEnd":"auto","color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"User default","options":{"args":["--login"],"command":"/bin/bash","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"terminalColorScheme":null,"type":"local","weight":0}
+debug: Resizing to 154x41
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: GET https://api.tabby.sh/api/1/configs
+error: Request failed with status code 401 {"code":"ERR_BAD_REQUEST","config":{"adapter":["xhr","http"],"env":{},"headers":{"Accept":"application/json, text/plain, */*","Authorization":"Bearer "},"maxBodyLength":-1,"maxContentLength":-1,"method":"get","timeout":0,"transformRequest":[null],"transformResponse":[null],"transitional":{"clarifyTimeoutError":false,"forcedJSONParsing":true,"silentJSONParsing":true},"url":"https://api.tabby.sh/api/1/configs","xsrfCookieName":"XSRF-TOKEN","xsrfHeaderName":"X-XSRF-TOKEN"},"name":"AxiosError","request":{"__zone_symbol__abortfalse":[{"runCount":0,"source":"XMLHttpRequest.addEventListener:abort","state":"scheduled","type":"eventTask","zone":"angular"}],"__zone_symbol__errorfalse":[{"runCount":0,"source":"XMLHttpRequest.addEventListener:error","state":"scheduled","type":"eventTask","zone":"angular"}],"__zone_symbol__loadendfalse":[{"runCount":2,"source":"XMLHttpRequest.addEventListener:loadend","state":"scheduled","type":"eventTask","zone":"angular"}],"__zone_symbol__timeoutfalse":[{"runCount":0,"source":"XMLHttpRequest.addEventListener:timeout","state":"scheduled","type":"eventTask","zone":"angular"}],"__zone_symbol__xhrErrorBeforeScheduled":false,"__zone_symbol__xhrScheduled":true,"__zone_symbol__xhrSync":false,"__zone_symbol__xhrTask":{"runCount":0,"source":"XMLHttpRequest.send","state":"notScheduled","type":"macroTask","zone":"angular"},"__zone_symbol__xhrURL":"https://api.tabby.sh/api/1/configs"},"response":{"config":{"adapter":["xhr","http"],"env":{},"headers":{"Accept":"application/json, text/plain, */*","Authorization":"Bearer "},"maxBodyLength":-1,"maxContentLength":-1,"method":"get","timeout":0,"transformRequest":[null],"transformResponse":[null],"transitional":{"clarifyTimeoutError":false,"forcedJSONParsing":true,"silentJSONParsing":true},"url":"https://api.tabby.sh/api/1/configs","xsrfCookieName":"XSRF-TOKEN","xsrfHeaderName":"X-XSRF-TOKEN"},"data":"\n<html><head>\n<meta http-equiv=\"content-type\" content=\"text/html;charset=utf-8\">\n<title>401 Unauthorized</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Unauthorized</h1>\n<h2>Your client does not have permission to the requested URL <code>/api/1/configs</code>.</h2>\n<h2></h2>\n</body></html>\n","headers":{"content-length":"307","content-type":"text/html; charset=UTF-8","date":"Sat, 14 Oct 2023 00:44:23 GMT","server":"Google Frontend","www-authenticate":"Bearer error=\"invalid_token\" error_description=\"Authorization header format was not recognized\""},"request":{"__zone_symbol__abortfalse":[{"runCount":0,"source":"XMLHttpRequest.addEventListener:abort","state":"scheduled","type":"eventTask","zone":"angular"}],"__zone_symbol__errorfalse":[{"runCount":0,"source":"XMLHttpRequest.addEventListener:error","state":"scheduled","type":"eventTask","zone":"angular"}],"__zone_symbol__loadendfalse":[{"runCount":2,"source":"XMLHttpRequest.addEventListener:loadend","state":"scheduled","type":"eventTask","zone":"angular"}],"__zone_symbol__timeoutfalse":[{"runCount":0,"source":"XMLHttpRequest.addEventListener:timeout","state":"scheduled","type":"eventTask","zone":"angular"}],"__zone_symbol__xhrErrorBeforeScheduled":false,"__zone_symbol__xhrScheduled":true,"__zone_symbol__xhrSync":false,"__zone_symbol__xhrTask":{"runCount":0,"source":"XMLHttpRequest.send","state":"notScheduled","type":"macroTask","zone":"angular"},"__zone_symbol__xhrURL":"https://api.tabby.sh/api/1/configs"},"status":401,"statusText":""}}
+debug: Setting language to
+debug: Setting language to
+debug: Resizing to 157x43
+debug: Setting language to
+debug: Resizing to 154x41
+debug: Setting language to
+debug: Setting language to
+debug: Resizing to 314x52
+debug: Resizing to 154x41
+debug: Setting language to
+debug: Setting language to
+info: Destroying
+info: v
+debug: Setting language to
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":["configure"],"sandbox":false},"cwd":"/home/gabriel","secondInstance":false}
+debug: Resizing to 154x41
+debug: Resizing to 154x44
+debug: Resizing to 154x41
+debug: Resizing to 154x44
+debug: Resizing to 154x41
+debug: Resizing to 154x44
+debug: Resizing to 154x41
+info: Destroying
+info: v
+debug: Setting language to
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":["configure"],"sandbox":false},"cwd":"/home/gabriel","secondInstance":false}
+debug: Resizing to 154x41
+debug: Resizing to 154x44
+debug: Resizing to 154x41
+info: Destroying
+info: v
+debug: Setting language to
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":["configure"],"sandbox":false},"cwd":"/home/gabriel","secondInstance":false}
+debug: Resizing to 154x41
+debug: Resizing to 154x44
+debug: Resizing to 154x41
+info: Destroying
+info: v
+debug: Setting language to
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":["configure"],"sandbox":false},"cwd":"/home/gabriel","secondInstance":false}
+debug: Resizing to 154x41
+debug: Resizing to 154x44
+debug: Resizing to 154x41
+info: Destroying
+info: v
+debug: Setting language to
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":["configure"],"sandbox":false},"cwd":"/home/gabriel","secondInstance":false}
+debug: Resizing to 154x41
+debug: Resizing to 154x44
+debug: Resizing to 154x41
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":["configure"],"allow-file-access-from-files":true,"allowFileAccessFromFiles":true,"desktop-startup-id":"i3/tabby/1006-3-gabriel-virtual-machine_TIME11218397","desktopStartupId":"i3/tabby/1006-3-gabriel-virtual-machine_TIME11218397","disable-gpu":true,"disable-http-cache":true,"disableGpu":true,"disableHttpCache":true,"enable-transparent-visuals":true,"enableTransparentVisuals":true,"force_discrete_gpu":0,"lang":"EN","max-active-webgl-contexts":9000,"maxActiveWebglContexts":9000,"sandbox":[false,false]},"cwd":"/home/gabriel","secondInstance":true}
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":["configure"],"allow-file-access-from-files":true,"allowFileAccessFromFiles":true,"desktop-startup-id":"i3/tabby/1006-4-gabriel-virtual-machine_TIME11235110","desktopStartupId":"i3/tabby/1006-4-gabriel-virtual-machine_TIME11235110","disable-gpu":true,"disable-http-cache":true,"disableGpu":true,"disableHttpCache":true,"enable-transparent-visuals":true,"enableTransparentVisuals":true,"force_discrete_gpu":0,"lang":"EN","max-active-webgl-contexts":9000,"maxActiveWebglContexts":9000,"sandbox":[false,false]},"cwd":"/home/gabriel","secondInstance":true}
+debug: Resizing to 154x44
+debug: Resizing to 154x44
+debug: Resizing to 154x41
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":["configure"],"allow-file-access-from-files":true,"allowFileAccessFromFiles":true,"desktop-startup-id":"i3/tabby/1006-3-gabriel-virtual-machine_TIME11548297","desktopStartupId":"i3/tabby/1006-3-gabriel-virtual-machine_TIME11548297","disable-gpu":true,"disable-http-cache":true,"disableGpu":true,"disableHttpCache":true,"enable-transparent-visuals":true,"enableTransparentVisuals":true,"force_discrete_gpu":0,"lang":"EN","max-active-webgl-contexts":9000,"maxActiveWebglContexts":9000,"sandbox":[false,false]},"cwd":"/home/gabriel","secondInstance":true}
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":["configure"],"allow-file-access-from-files":true,"allowFileAccessFromFiles":true,"desktop-startup-id":"i3/tabby/1006-4-gabriel-virtual-machine_TIME11554380","desktopStartupId":"i3/tabby/1006-4-gabriel-virtual-machine_TIME11554380","disable-gpu":true,"disable-http-cache":true,"disableGpu":true,"disableHttpCache":true,"enable-transparent-visuals":true,"enableTransparentVisuals":true,"force_discrete_gpu":0,"lang":"EN","max-active-webgl-contexts":9000,"maxActiveWebglContexts":9000,"sandbox":[false,false]},"cwd":"/home/gabriel","secondInstance":true}
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":["configure"],"allow-file-access-from-files":true,"allowFileAccessFromFiles":true,"desktop-startup-id":"i3/tabby/1006-5-gabriel-virtual-machine_TIME11556512","desktopStartupId":"i3/tabby/1006-5-gabriel-virtual-machine_TIME11556512","disable-gpu":true,"disable-http-cache":true,"disableGpu":true,"disableHttpCache":true,"enable-transparent-visuals":true,"enableTransparentVisuals":true,"force_discrete_gpu":0,"lang":"EN","max-active-webgl-contexts":9000,"maxActiveWebglContexts":9000,"sandbox":[false,false]},"cwd":"/home/gabriel","secondInstance":true}
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":["configure"],"allow-file-access-from-files":true,"allowFileAccessFromFiles":true,"desktop-startup-id":"i3/tabby/1006-6-gabriel-virtual-machine_TIME11556683","desktopStartupId":"i3/tabby/1006-6-gabriel-virtual-machine_TIME11556683","disable-gpu":true,"disable-http-cache":true,"disableGpu":true,"disableHttpCache":true,"enable-transparent-visuals":true,"enableTransparentVisuals":true,"force_discrete_gpu":0,"lang":"EN","max-active-webgl-contexts":9000,"maxActiveWebglContexts":9000,"sandbox":[false,false]},"cwd":"/home/gabriel","secondInstance":true}
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":["configure"],"allow-file-access-from-files":true,"allowFileAccessFromFiles":true,"desktop-startup-id":"i3/tabby/1006-7-gabriel-virtual-machine_TIME11557095","desktopStartupId":"i3/tabby/1006-7-gabriel-virtual-machine_TIME11557095","disable-gpu":true,"disable-http-cache":true,"disableGpu":true,"disableHttpCache":true,"enable-transparent-visuals":true,"enableTransparentVisuals":true,"force_discrete_gpu":0,"lang":"EN","max-active-webgl-contexts":9000,"maxActiveWebglContexts":9000,"sandbox":[false,false]},"cwd":"/home/gabriel","secondInstance":true}
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":["configure"],"allow-file-access-from-files":true,"allowFileAccessFromFiles":true,"desktop-startup-id":"i3/tabby/1006-8-gabriel-virtual-machine_TIME11557471","desktopStartupId":"i3/tabby/1006-8-gabriel-virtual-machine_TIME11557471","disable-gpu":true,"disable-http-cache":true,"disableGpu":true,"disableHttpCache":true,"enable-transparent-visuals":true,"enableTransparentVisuals":true,"force_discrete_gpu":0,"lang":"EN","max-active-webgl-contexts":9000,"maxActiveWebglContexts":9000,"sandbox":[false,false]},"cwd":"/home/gabriel","secondInstance":true}
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":["configure"],"allow-file-access-from-files":true,"allowFileAccessFromFiles":true,"desktop-startup-id":"i3/tabby/1006-9-gabriel-virtual-machine_TIME11557641","desktopStartupId":"i3/tabby/1006-9-gabriel-virtual-machine_TIME11557641","disable-gpu":true,"disable-http-cache":true,"disableGpu":true,"disableHttpCache":true,"enable-transparent-visuals":true,"enableTransparentVisuals":true,"force_discrete_gpu":0,"lang":"EN","max-active-webgl-contexts":9000,"maxActiveWebglContexts":9000,"sandbox":[false,false]},"cwd":"/home/gabriel","secondInstance":true}
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":["configure"],"allow-file-access-from-files":true,"allowFileAccessFromFiles":true,"desktop-startup-id":"i3/tabby/1006-10-gabriel-virtual-machine_TIME11558026","desktopStartupId":"i3/tabby/1006-10-gabriel-virtual-machine_TIME11558026","disable-gpu":true,"disable-http-cache":true,"disableGpu":true,"disableHttpCache":true,"enable-transparent-visuals":true,"enableTransparentVisuals":true,"force_discrete_gpu":0,"lang":"EN","max-active-webgl-contexts":9000,"maxActiveWebglContexts":9000,"sandbox":[false,false]},"cwd":"/home/gabriel","secondInstance":true}
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":["configure"],"allow-file-access-from-files":true,"allowFileAccessFromFiles":true,"desktop-startup-id":"i3/tabby/1006-11-gabriel-virtual-machine_TIME11562004","desktopStartupId":"i3/tabby/1006-11-gabriel-virtual-machine_TIME11562004","disable-gpu":true,"disable-http-cache":true,"disableGpu":true,"disableHttpCache":true,"enable-transparent-visuals":true,"enableTransparentVisuals":true,"force_discrete_gpu":0,"lang":"EN","max-active-webgl-contexts":9000,"maxActiveWebglContexts":9000,"sandbox":[false,false]},"cwd":"/home/gabriel","secondInstance":true}
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":["configure"],"allow-file-access-from-files":true,"allowFileAccessFromFiles":true,"desktop-startup-id":"i3/tabby/1006-12-gabriel-virtual-machine_TIME11562649","desktopStartupId":"i3/tabby/1006-12-gabriel-virtual-machine_TIME11562649","disable-gpu":true,"disable-http-cache":true,"disableGpu":true,"disableHttpCache":true,"enable-transparent-visuals":true,"enableTransparentVisuals":true,"force_discrete_gpu":0,"lang":"EN","max-active-webgl-contexts":9000,"maxActiveWebglContexts":9000,"sandbox":[false,false]},"cwd":"/home/gabriel","secondInstance":true}
+info: Starting profile User default {"behaviorOnSessionEnd":"auto","color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"User default","options":{"args":["--login"],"command":"/bin/bash","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"terminalColorScheme":null,"type":"local","weight":0}
+debug: Resizing to 154x41
+debug: Resizing to 154x44
+debug: Resizing to 154x44
+debug: Resizing to 154x44
+debug: Resizing to 154x44
+debug: Resizing to 154x41
+debug: Resizing to 154x41
+debug: Resizing to 154x41
+debug: Resizing to 154x41
+debug: Resizing to 154x39
+debug: Resizing to 154x39
+debug: Resizing to 154x39
+debug: Resizing to 154x39
+debug: Resizing to 154x39
+debug: Resizing to 154x39
+info: Destroying
+info: Destroying
+info: v
+debug: Setting language to
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":["configure"],"sandbox":false},"cwd":"/home/gabriel","secondInstance":false}
+info: Starting profile User default {"behaviorOnSessionEnd":"auto","color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"User default","options":{"args":["--login"],"command":"/bin/bash","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"terminalColorScheme":null,"type":"local","weight":0}
+debug: Resizing to 154x41
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":["configure"],"allow-file-access-from-files":true,"allowFileAccessFromFiles":true,"desktop-startup-id":"i3/tabby/1091-4-gabriel-virtual-machine_TIME245476","desktopStartupId":"i3/tabby/1091-4-gabriel-virtual-machine_TIME245476","disable-gpu":true,"disable-http-cache":true,"disableGpu":true,"disableHttpCache":true,"enable-transparent-visuals":true,"enableTransparentVisuals":true,"force_discrete_gpu":0,"lang":"EN","max-active-webgl-contexts":9000,"maxActiveWebglContexts":9000,"sandbox":[false,false]},"cwd":"/home/gabriel","secondInstance":true}
+debug: Resizing to 74x41
+debug: Resizing to 154x41
+debug: Resizing to 74x41
+debug: Resizing to 154x41
+info: Destroying
